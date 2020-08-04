@@ -1,5 +1,5 @@
 # HX-Internal-Gotek-Adpater
-Tandy 1000 HX Internal Gotek Adpater
+Tandy 1000 HX, RL, RLX & RSX Internal Gotek Adpater
 
 This Tandy 1000 Internal Gotek Adapter allows you to use Gotek Virtual Floppy Drives with the Tandy 1000 HX which sends power over the Floppy cable and uses a non-standard pin-out.
 
